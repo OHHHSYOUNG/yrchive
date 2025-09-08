@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+* {scroll-behavior: smooth;}
+body {margin: 0px;}
+#menu {width: 150px; height: 250px; background-color: rgb(211, 0, 0); position: fixed; top: 340px; right: 100px; 
+        font-size: 1.5rem; text-align: center; line-height: 60px;z-index: 999; font-weight: bold;}
+a {text-decoration: none; color: rgb(255, 255, 255);}
+
+#wrap {width: 0px; margin: auto;}
+#mov {height:960px; margin-top: 0px;  z-index: 10;}
+#intro {width:1200px ; height:960px; background-color: white; margin-left:-600px; font-size: 3.0rem; 
+    text-align: center; line-height: 950px; position: relative;}  
+#info {width:1200px ; height:960px; background-color: white;margin-left:-600px;overflow: hidden;}  
+#foot {width:1290px ; height:300px; background-color: rgb(211, 0, 0); margin-left:350px; overflow :hidden; position: relative;}  
+#works {width:1200px; height:960px; background-color:rgb(211, 0, 0); margin-left: 350px; padding-top: 50px; 
+        box-sizing: border-box; position: relative; z-index: 1; color: white; line-height: 50px;}
+#pf  {width: 1900px; height: 960px; background-color: rgb(211, 0, 0); margin-left:-960px;}
+input {display: none;}
+.thumb {width:550px; display: block; }
+label {width:550px; height: 350px; display: block; float: left; margin-left: 30px;}
+
+#pot  {margin-left: 30px; margin-top: 0px; width: 200px; padding-top: 30px; padding-left: 10px;}
+#bi, #cont1 {margin-left: 30px; margin-top: 30px; width: 200px;}
+#pict {width: 270px; height:340px; margin: -0px 130px;}
+#words {margin: 7px 90px; width: 330px;}
+#info1, #info2 {width: 550px;height: 900px;float: left; }
+#infom1, #infom2 {width: 500px; height: 400px; margin: 5px 130px;float: left;aspect-ratio: 16/9;}
+#info2 {padding-top: 300px; padding-left:-100px;}
+li {list-style: none; line-height: 40px;object-fit: scale-down;}
+#deco {width: 200px; height: 690px;  margin-left:-285px;}
+.sub {width: 230px; height: 30px; border: 1px solid black;}
+.bio {width: 200px; height: 50px; object-fit: scale-down;}
+.con {width:200px; height: 100px; float: left; 
+      line-height:35px; margin: 30px 40px;}
+#contact1 {width: 1900px; height: 300px; background-color: rgb(211, 0, 0); margin-left: -960px;}
+
