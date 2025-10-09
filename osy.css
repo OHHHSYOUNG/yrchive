@@ -17,7 +17,8 @@ a {text-decoration: none; color: rgb(255, 255, 255);}
 #pf  {width: 1900px; height: 960px; background-color: rgb(211, 0, 0); margin-left:-960px;}
 input {display: none;}
 .thumb {width:550px; display: block; }
-label {width:550px; height: 330px; display: block; float: left; margin-left: 30px;}
+label {width:550px; height: 350px; display: block; float: left; margin-left: 30px;}
+
 #pot  {margin-left: 30px; margin-top: 0px; width: 200px; padding-top: 30px; padding-left: 10px;}
 #bi, #cont1 {margin-left: 30px; margin-top: 30px; width: 200px;}
 #pict {width: 270px; height:340px; margin: -0px 130px;}
@@ -32,10 +33,4 @@ li {list-style: none; line-height: 40px;object-fit: scale-down;}
 .con {width:200px; height: 100px; float: left; 
       line-height:35px; margin: 30px 40px;}
 #contact1 {width: 1900px; height: 300px; background-color: rgb(211, 0, 0); margin-left: -960px;}
-
-
-
-
-
-
 
